@@ -1,0 +1,35 @@
+{
+    "name": "배우 양소연 | Actor Portfolio",
+    "short_name": "양소연",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F5F2EC",
+    "theme_color": "#171717",
+    "description": "배우 양소연의 공식 프로필, 출연작 및 연기 영상",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
